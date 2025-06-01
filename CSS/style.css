@@ -1,0 +1,17 @@
+.nav ul{
+    display: flex;
+    justify-content: space-around; /*Để dùng được justify-content thì trước đó phải dùng display:display: flex*/
+    list-style: none;
+    width: 50%;
+}
+
+.nav{
+    background-color: aqua;
+}
+
+.nav a{
+    color: blue;
+    text-decoration: none;
+
+}
+

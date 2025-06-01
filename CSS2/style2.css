@@ -1,0 +1,26 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-left: 440px;
+}
+
+.box-iner{
+    background-color:blue;
+    width: 50%;
+    height: 50%;
+}
+
+.box2 img{
+    width: 50%;
+    height: 400px;
+}
+
+.box2{
+    
+    height: 100px;
+    background-color: red;
+}
+
+
+
