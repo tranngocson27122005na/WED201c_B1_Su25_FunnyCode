@@ -29,4 +29,24 @@ body.dark{
 
 .header h1{
     color: aqua;
+    margin-left: 130px;
+}
+
+.Body1 h2{
+    margin-left: 100px;
+    color: black;
+}
+
+.Body2 h2{
+    margin-left: 100px;
+    color: black;
+}
+
+.footer{
+    text-align: right;
+}
+
+.details{
+    margin-left: 100px;
+    text-align: center;
 }
